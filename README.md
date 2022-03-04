@@ -1,4 +1,4 @@
-### This is a test repo
+### Collection of past ML codes
 *email*: xs2441@columbia.edu
 
 <a href="https://github.com//alanshen21">
